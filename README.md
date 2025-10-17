@@ -1,11 +1,11 @@
-# DA5401 Assignment 7:Imputation via Regression
+# DA5401 Assignment 6:Imputation via Regression
 
 Student Name: Nikesh Kumar Mandal 
 Roll Number: ID25M805
 
 ## Repository Structure
 
-- `DA5401_Assignment7_ID25M805.ipynb` - The main notebook with all code, visualizations, and answers to conceptual questions.
+- `DA5401_Assignment6_ID25M805.ipynb` - The main notebook with all code, visualizations, and answers to conceptual questions.
 - `UCI_Credit_Card.csv` - The dataset used for analysis.
 - `README.md` - This file.
 
